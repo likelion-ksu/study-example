@@ -14,3 +14,12 @@ a {
     color: #A4A4A4;
     font-size: 200%;
 }
+
+ul {
+    background-color: #F2F2F2;
+}
+
+img {
+    height: 40px;
+    width: 100px
+}
