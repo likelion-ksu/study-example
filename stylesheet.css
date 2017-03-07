@@ -1,0 +1,16 @@
+h1 {
+    color: orange;
+    font-family: Times, serif;
+    font-style: italic;
+    font-weight: lighter;
+    text-align: center;
+}
+
+p {
+    font-size: 15px;
+}
+
+a {
+    color: #A4A4A4;
+    font-size: 200%;
+}
